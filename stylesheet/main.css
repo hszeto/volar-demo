@@ -36,6 +36,19 @@ nav{
   body {
     padding-top: 60px;
   }
+
+  /* Content uses full width in mobile view */
+  a.navbar-brand img{
+    width: auto;
+    max-height: 32px;
+  }
+  .bg-inverse {
+    background-color: black !important;
+  }
+  .main{
+    margin-left: 0;
+    width: 100%;
+  }
 }
 
  /* Hide default border to remove 1px line. */
