@@ -6,6 +6,10 @@ html,body{
   height: 100%;
   background-color: black;
   margin: 0;
+  font-family: "Rubik", sans-serif, "google";
+  font-size: 16px;
+  line-height: 1.42857143;
+
 }
 /*
  * Global add-ons
