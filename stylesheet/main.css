@@ -90,6 +90,16 @@ li.active{
   color: #f14c09 !important;
 }
 
+li:hover{
+  background-color: #2e2e2e;
+}
+li:hover a {
+  color: #f14c09 !important;
+}
+li:hover.sidebar-logo{
+  background-color: black;
+}
+
 /* Body Content */
 .float-right{
   float: right;
