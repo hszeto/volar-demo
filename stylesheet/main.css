@@ -49,6 +49,9 @@ nav{
     margin-left: 0;
     width: 100%;
   }
+  .desc{
+    min-height: auto;
+  }
 }
 
  /* Hide default border to remove 1px line. */
@@ -75,6 +78,9 @@ nav{
     overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
     border-right: 1px solid;
     border-color: rgba(200,200,200,0.25);
+  }
+  .desc{
+    min-height: 700px;
   }
 }
 
